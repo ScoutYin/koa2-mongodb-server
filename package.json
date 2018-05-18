@@ -14,7 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "babel-register": "^6.26.0",
-    "koa": "^2.5.1"
+    "bluebird": "^3.5.1",
+    "koa": "^2.5.1",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.1.1"
   },
   "devDependencies": {
     "babel-plugin-transform-async-to-generator": "^6.24.1",
